@@ -8,7 +8,8 @@ Self-directed IaC learning from beginner to advanced level.
 |-----|-------|--------|
 | Day 1 | Terraform install, first EC2 deploy, state files | ✅ Done |
 | Day 2 | Variables, outputs, tfvars, plan symbols | ✅ Done |
-| Day 3 | Providers, data sources, dynamic AMI lookup | 🔄 In Progress |
+| Day 3 | Providers, data sources, dynamic AMI lookup | ✅ Done |
+| Day 4 | Resources: Security groups, key pairs | 🔄 In Progress |
 
 ## Tools
 - Terraform v1.15.5
@@ -18,3 +19,4 @@ Self-directed IaC learning from beginner to advanced level.
 ## Projects
 - [Day 1](./day1) - First EC2 with Terraform
 - [Day 2](./day2) - Variables and outputs
+- [Day 3](./day3) - Providers, data sources, dynamic AMI lookup
