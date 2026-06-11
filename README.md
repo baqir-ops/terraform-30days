@@ -10,7 +10,8 @@ Self-directed IaC learning from beginner to advanced level.
 | Day 2 | Variables, outputs, tfvars, plan symbols | ✅ Done |
 | Day 3 | Providers, data sources, dynamic AMI lookup | ✅ Done |
 | Day 4 | Resources: Security groups, key pairs | ✅ Done |
-| Day 5 | State files, remote state, S3 backend | 🔄 In Progress |
+| Day 5 | State files, remote state, S3 backend | ✅ Done |
+| Day 6 | Modules: reusable infrastructure components | 🔄 In Progress |
 ## Tools
 - Terraform v1.15.5
 - AWS (ap-south-1)
@@ -21,3 +22,5 @@ Self-directed IaC learning from beginner to advanced level.
 - [Day 2](./day2) - Variables and outputs
 - [Day 3](./day3) - Providers, data sources, dynamic AMI lookup
 - [Day 4](./day4) - Security groups, key pairs, SSH access
+- [Day 5](./day5) - Remote state with S3 backend and DynamoDB locking
+- [Day 6](./day6) - Modules: reusable infrastructure components
